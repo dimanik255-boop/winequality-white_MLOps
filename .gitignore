@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+mlflow.db
+mlruns/
+.dvc/cache/
+data/train.csv
+data/test.csv
+models/model.joblib
+metrics.json
+reports/*.txt
+*.joblib
+*.egg-info/
